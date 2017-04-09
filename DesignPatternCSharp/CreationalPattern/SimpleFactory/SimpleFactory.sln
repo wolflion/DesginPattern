@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{63126938-73F0-42A8-96D1-28CEF6E3EEB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactorySample", "SimpleFactorySample\SimpleFactorySample.csproj", "{6FD2857B-3819-4327-A632-4EB50388466B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{63126938-73F0-42A8-96D1-28CEF6E3EEB9}.Debug|x86.Build.0 = Debug|x86
 		{63126938-73F0-42A8-96D1-28CEF6E3EEB9}.Release|x86.ActiveCfg = Release|x86
 		{63126938-73F0-42A8-96D1-28CEF6E3EEB9}.Release|x86.Build.0 = Release|x86
+		{6FD2857B-3819-4327-A632-4EB50388466B}.Debug|x86.ActiveCfg = Debug|x86
+		{6FD2857B-3819-4327-A632-4EB50388466B}.Debug|x86.Build.0 = Debug|x86
+		{6FD2857B-3819-4327-A632-4EB50388466B}.Release|x86.ActiveCfg = Release|x86
+		{6FD2857B-3819-4327-A632-4EB50388466B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
